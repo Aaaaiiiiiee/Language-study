@@ -7,3 +7,6 @@
 4. compare_boolean
 5. conditional
 6. input_output
+
+### Second study of the course
+1. logical
