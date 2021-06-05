@@ -8,13 +8,20 @@
 5. conditional
 6. input_output
 
-### Second study of the course
+### Second
 1. logical
 
-### Third study of the coruse
+### Third
 1. comment
 2. container
 
-### Fourth study of the course
+### Fourth
 1. container
 2. loop
+
+### Fifth
+1. function
+
+### Sixth
+1. module
+2. Object Orientied Programming(OOP)
