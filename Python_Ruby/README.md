@@ -25,3 +25,7 @@
 ### Sixth
 1. module
 2. Object Orientied Programming(OOP)
+
+### Seventh
+1. class
+2. instance and variation
