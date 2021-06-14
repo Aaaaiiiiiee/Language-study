@@ -29,3 +29,6 @@
 ### Seventh
 1. class
 2. instance and variation
+
+### Eighth
+1. inheritance
