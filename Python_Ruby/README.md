@@ -32,3 +32,10 @@
 
 ### Eighth
 1. inheritance
+
+### Nineth
+1. class_member
+2. override
+3. module_object
+4. multiple_inheritance
+5. package_manager
